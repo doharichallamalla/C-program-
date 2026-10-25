@@ -1,2 +1,7 @@
-Assignment 
-my C program 
+case study 
+
+
+
+
+
+
